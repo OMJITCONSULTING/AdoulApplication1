@@ -13,12 +13,5 @@ Author URI: https://omjit.com/adoul
 */
 
 
-add_action ('wp_footer','say_hello');
-
-function say_hello ()
-{
-    echo ('<p> Githuub tessssssssst 1 Fichier index <p>');
-    
-}
 
 ?>
